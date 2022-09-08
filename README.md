@@ -16,4 +16,4 @@ npm run dev
 ให้นศ.ศึกษาวิธีการ build ได้ใน slide
 และสุดท้ายให้ deploy ใน [CMU Personal Webhosting](https://register-myweb.cmu.ac.th/)
 
-(https://codesandbox.io/s/xenodochial-monad-wxlooy)
+(https://codesandbox.io/s/lab6-f7p8zly)
